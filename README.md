@@ -1,0 +1,2 @@
+# AlgortimaGenetika
+AlgoritmaGenetika
